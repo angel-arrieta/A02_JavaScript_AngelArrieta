@@ -24,4 +24,4 @@ if (Number.isInteger(suma) == false){
     suma = suma.toFixed(2)
 }
 
-alert(num1 + " + " + num2 + " = " + suma)
+prompt(num1 + " + " + num2 + " = " + suma)
